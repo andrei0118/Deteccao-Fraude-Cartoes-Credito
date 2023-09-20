@@ -1,4 +1,4 @@
-# Aprendizagem de Máquina Aplicado na Detecçãoo de Fraudes em Cartões de Crédito
+# Aprendizagem de Máquina Aplicado na Detecção de Fraudes em Cartões de Crédito
 
 ## Licença  
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/andrei0118/gn-vendas/blob/master/LICENSE)
