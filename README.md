@@ -9,9 +9,10 @@ O presente trabalho descreve uma proposta de aplicar diferentes técnicas de apr
 
 Desse modo metodologias que utilizam de aprendizagem de máquina e inteligência artificial veem sendo desenvolvidas com intuito de melhorar a segurança das instituições. Nesse contexto existem dois principais tipos de algoritmos, um que utiliza de aprendizagem supervisionada, tais como Naive Bayes, regressão logística, arvores de decisão, KNN e redes neurais, e outros conhecidos como aprendizagem não supervisionada como por exemplo, K – means, Clustering e hierárquico.
 
-# Tecnologias utilizadas
+# Ferramentas
 - Python
-
+- Colab
+  
 ## Autor
 Andrei Camilo dos Santos
 https://www.linkedin.com/in/andrei0118-santos
