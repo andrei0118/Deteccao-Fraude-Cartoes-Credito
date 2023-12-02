@@ -16,5 +16,5 @@ Desse modo metodologias que utilizam de aprendizagem de máquina e inteligência
   
 ## Autor
 
--Andrei Camilo dos Santos
--https://www.linkedin.com/in/andrei0118-santos
+- Andrei Camilo dos Santos
+- https://www.linkedin.com/in/andrei0118-santos
